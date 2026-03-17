@@ -74,7 +74,7 @@ If the goal is not met, contributors can claim a refund.
 
 # Output
 
-<img width="1905" height="1033" alt="Screenshot 2026-02-25 101347" src="https://github.com/user-attachments/assets/607b368e-9365-49ff-b57a-2b73dbc76c29" />
+<img width="1919" height="1199" alt="Screenshot 2026-02-05 091922" src="https://github.com/user-attachments/assets/a45066ba-a202-4556-93e5-76ec41925190" />
 
 # High-Level Overview:
 Teaches decentralized fundraising.
